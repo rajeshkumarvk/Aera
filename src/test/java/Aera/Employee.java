@@ -30,7 +30,7 @@ public class Employee {
 		
 		System.out.println(e2.name + " " + e2.age + " " +e2.role+ " " +e2.empid+ " " +e2.dept+ " " +e2.isPermanent);
 		
-		ConstructorConcepts comp = new ConstructorConcepts("Apple", "Cook"," apple cloud", 100000, 100);
+		ConstructorConcepts comp = new ConstructorConcepts("Apple", "Tim Cook"," apple cloud", 100000, 100);
 
 		System.out.println(comp.name+ " " +comp.ceo+ " " +comp.product);
 	}
